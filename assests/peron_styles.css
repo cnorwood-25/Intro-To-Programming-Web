@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+p{
+    color:blue
+}
+div{
+    border-color: black;
+    border-style: dotted;
+}
