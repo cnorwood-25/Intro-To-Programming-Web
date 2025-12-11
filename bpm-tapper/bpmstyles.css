@@ -1,0 +1,28 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: antiquewhite;
+}
+h1{
+    color:black;
+
+}
+#tapButton{
+    padding: 40px 80px;
+    font-size: 48px;
+    cursor: pointer;
+    background-color: azure;
+    color:antiquewhite;
+    border: none;
+    border-radius: 5px;
+    margin: 20px 0;
+    transition: background-color 0.2s;
+}
+#tapButton:hover{
+    background-color: blueviolet;
+}
